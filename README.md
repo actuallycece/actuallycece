@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @actuallycece
+- 👀 I’m interested in programing, coooking, daning, and video games
+- 🌱 I've learned python
